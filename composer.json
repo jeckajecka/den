@@ -1,0 +1,12 @@
+{
+    "name": "jrcortez/den",
+    "description": "als website",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Jrcortez\\Den\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
