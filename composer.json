@@ -2,11 +2,7 @@
     "name": "jrcortez/den",
     "description": "als website",
     "type": "project",
-    "autoload": {
-        "psr-4": {
-            "Jrcortez\\Den\\": "src/"
-        }
-    },
-    "minimum-stability": "dev",
+    "license": "2021",
+    "minimum-stability": "beta",
     "require": {}
 }
